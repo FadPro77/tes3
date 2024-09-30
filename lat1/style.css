@@ -1,0 +1,7 @@
+.hello-flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+    height: 100vh;
+}
